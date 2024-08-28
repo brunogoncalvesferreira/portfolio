@@ -1,0 +1,60 @@
+.title-lg {
+  font: var(--title-lg);
+}
+
+.title-mobile {
+  font-size: 2rem;
+}
+
+.title-md {
+  font: var(--title-md);
+}
+
+.title-sm {
+  font: var(--title-sm);
+}
+
+.subtitle {
+  font: var(--subtitle);
+}
+
+.text-md {
+  font: var(--text-md);
+}
+
+.text-sm {
+  font: var(--text-sm);
+}
+
+.text-red {
+  color: var(--red);
+}
+
+.text-purple {
+  color: var(--purple)
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  max-width: 65rem;
+  width: 100%;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+.container-job {
+  max-width: 55.5rem;
+  width: 100%;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+.container-contact {
+  max-width: 25rem;
+  width: 100%;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}

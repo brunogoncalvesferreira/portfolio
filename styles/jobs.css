@@ -1,0 +1,27 @@
+#jobs {
+  margin-top: 5.5rem;
+  padding: 88px 0 8rem 0; 
+  background-color: var(--gray-100);
+}
+
+.card-job {
+  display: flex;
+  flex-direction: column;
+  align-items: left ;
+
+  border: 2px solid var(--gray-200);
+  border-radius: 12px;
+  padding: 1.25rem;
+}
+
+.card-job img {
+  width: 3rem;
+  height: 48px;
+
+  margin-bottom: 1.25rem;
+}
+
+.card-job h3 {
+  margin-bottom: 0.5rem;
+  display: block;
+}
